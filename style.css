@@ -1,0 +1,46 @@
+.main-c {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    background-color: rgb(217, 233, 208);
+    border-radius: 10px;
+}
+
+
+
+
+
+.name-container {
+    
+    
+    display: flex;
+    
+   
+   align-items: center;
+    /* justify-content: center; */
+    gap: 20px;
+    width: 100%;
+    
+   
+}
+
+.details {
+    border: 1px solid rgb(139, 203, 139);
+    display: flex;
+    border-radius: 9px;
+    margin: 0px;
+    width: 100%;
+   
+}
+
+.f {
+    width: 50%;
+}
+
+span{
+    color: blue;
+}
+
+
